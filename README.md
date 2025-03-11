@@ -12,3 +12,5 @@ PHP学習用リポジトリ
 - Nginx 1.17.8
 - MySQL 5.7
 - docker-compose 3.7
+
+test
